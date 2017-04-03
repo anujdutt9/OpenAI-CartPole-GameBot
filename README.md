@@ -11,7 +11,7 @@ All code is written in Python 3 using PyCharm IDE.
 
 # Results
 
-![Output a1](TrainedGameBot.gif?raw=true "Output a1")
+![Output a1](Images/TrainedGameBot.gif?raw=true "Output a1")
 
 
 # Resources

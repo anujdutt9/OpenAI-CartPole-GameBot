@@ -8,6 +8,11 @@ All code is written in Python 3 using PyCharm IDE.
 3. **TFlearn**
 4. **OpenAI Gym**
 
+# Usage
+
+```
+python3 CartPole_GameBot.py
+```
 
 # Result
 
